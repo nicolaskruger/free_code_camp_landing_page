@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
-**Objective:** Build a [CodePen.io](https://www.CodePen.io) app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
+**Objective:** Build a [CodePen.io](https://www.CodePen.io) app that is functionally similar to this: (use this mock URL: https://www.freecodecamp.com/email-submit).
 
 Fulfill the below <ins>[user stories](https://en.wikipedia.org/wiki/User_story)</ins> and get all of the tests to pass. Give it your own personal style.
 
