@@ -1,4 +1,4 @@
-# Responsive Web Design Projects - Build a Tribute Page
+# Responsive Web Design Projects - Build a Landing Page
 
 **Objective:** Build a [CodePen.io](https://www.CodePen.io) app that is functionally similar to this: (use this mock URL: https://www.freecodecamp.com/email-submit).
 
